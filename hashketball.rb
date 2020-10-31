@@ -89,7 +89,7 @@ def game_hash
           :steals => 4,
           :blocks => 15,
           :slam_dunks => 10},
-          
+
           {},{}]
     }
   }
